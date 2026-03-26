@@ -1,89 +1,105 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Garrett Monson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Garrett Monson
+Business Analytics Student, Pre-Law, Aspiring Corporate Attorney.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="garrett.t.monson@gmail.com">garrett.t.monson@gmail.com</a>
+| <a href="https://www.linkedin.com/in/garrett-monson">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Business Analytics student at Brigham Young University–Idaho, focused on finance, data analysis, and pre-law preparation.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Financial analysis, data visualization, spreadsheet modeling, business strategy, and analytical problem-solving.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data-driven decision making, financial modeling, business optimization, legal strategy, and analytics applications in business.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected Apr. 2027`
+__Brigham Young University–Idaho__, Rexburg, ID :contentReference[oaicite:0]{index=0}
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor of Science in Business Analytics
+- Finance Minor, Pre-Law Emphasis
+- GPA: 4.0
+- Full Tuition Merit Scholarship
+- President, Speech and Debate Society
+- Member, Pre-Law Society and Wealth Management Society
 
-- Sizar
+### Relevant Coursework
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Spreadsheet Analysis, Financial Accounting, Managerial Accounting, Business Leadership (IBC), Business Writing, Business Analytics, Data Science Programming, SQL for Analysts (planned)
 
 
+## Experience
 
-## Publications
+`Sep. 2025 – Present`
+__Teaching Assistant & Auditor, BA215__, BYU-Idaho :contentReference[oaicite:1]{index=1}
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Mentored 40+ students in spreadsheet analysis and business logic
+- Provided grading support, technical guidance, and individualized mentorship
+- Audited TA grading to ensure consistency and fairness
+- Debugged and improved instructional spreadsheet models
+- Rebuilt student projects to demonstrate deeper analytical applications
 
-### Journals
+`May 2025 – June 2025`
+__Financial Officer & Co-Founder__, Natura Home :contentReference[oaicite:2]{index=2}
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Secured $2,338 in startup funding through structured loan proposal
+- Directed financial strategy, cash flow tracking, and inventory management
+- Built Excel dashboards to monitor performance and operations
+- Implemented PCI-DSS compliant financial policies
+- Led financial training and accountability initiatives
 
-`1669`
-Lectiones opticæ.
+`Nov. 2024 – Dec. 2024`
+__Student Business Consultant__, BUS 200 Capstone :contentReference[oaicite:3]{index=3}
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Conducted market research for a local counseling practice
+- Identified barriers, competitors, and growth opportunities
+- Developed strategic recommendations and a 2025 pro forma
+- Proposed budget allocations projected to increase revenue by 65%
 
 
+## Leadership & Service
 
-<!-- ### Footer
+`Sep. 2025 – Jan. 2026`
+__New Student Mentor__, BYU-Idaho :contentReference[oaicite:4]{index=4}
 
-Last updated: May 2013 -->
+- Guided 40+ incoming students through academic and social transition
+- Led workshops and provided one-on-one mentorship
+
+`Aug. 2022 – Sep. 2024`
+__Volunteer Representative__, The Church of Jesus Christ of Latter-day Saints :contentReference[oaicite:5]{index=5}
+
+- Served in leadership roles for 14 months, managing teams of 6–18 volunteers
+- Led weekly planning meetings focused on goals and accountability
+- Developed communication and leadership skills in high-responsibility environments
+
+
+## Skills
+
+### Technical
+
+Excel (PivotTables, dashboards, advanced functions), Power BI, Power Query, Microsoft Office, Python (pandas, letsplot), SQL (in progress)
+
+### Analytical
+
+Financial modeling, forecasting, process optimization
+
+### Communication
+
+Professional writing, mentoring, client engagement
+
+### Leadership
+
+Team management, training, strategic planning
